@@ -1,0 +1,23 @@
+[
+  { "name" : "React Cafe", "address" : "123 Anywhere", "image" : "download.png", "rating" : 3.5},
+  { "name" : "Fancy Cafe", "address" : "124 Anywhere", "image" : "download(1).png", "rating" : 3.5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5},
+  { "name" : "Aranya's Cafe", "address" : "125 Anywhere", "image" : "download(1).png", "rating" : 5}
+  
+]
